@@ -4,7 +4,7 @@
 スマホアプリ「Nintendo Switch Online」でアクセスできるスプラトゥーン3のイカリング3にPCからアクセス・閲覧するためのツールです。
 
 ### ダウンロード先
-[リリースページ](https://github.com/Mikimini9627/ikaling_browser/releases/tag/main)からダウンロードしてください。
+[リリースページ](https://github.com/Mikimini9627/ikaling_browser/releases)からダウンロードしてください。
 
 ### 使用方法
 1. ikaling_browser.exeを実行してください。
